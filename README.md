@@ -1,4 +1,9 @@
+Inspired by https://github.com/KovaaK/SensitivityMatcher
+
+--
+
 Alt+/: Toggle recording mouse input
+
 Alt+Backspace: Replay recording
 
 360 / (recorded_x \* sensitivity) = yaw
